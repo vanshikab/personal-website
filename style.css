@@ -1,0 +1,49 @@
+body,html {
+	margin:0;
+}
+ 
+	header {
+		font-size: 50px;
+		: blue;
+	}
+
+ul{
+	display: inline-block;
+	list-style: none;
+	/*background-color: white;*/
+	width: 100%;
+	margin: 0px;
+}
+ 
+body {
+	background-color: #99ffff;	
+}
+
+li{
+	display: inline-block;
+	padding: 20px;
+}
+ 
+li a{
+	text-decoration: none;
+	padding: 20px;
+	color: black;
+	background-color: pink;
+}
+ 
+li a:hover{
+	background-color: black;
+	color: #00ffff;
+}
+ 
+#pic1 {
+	border:3px solid black;
+	height: 300px;
+}
+	
+#pic2 {
+	height:300px;
+	border:3px solid black;
+}
+ 
+
